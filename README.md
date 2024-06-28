@@ -82,3 +82,7 @@ Install my-project with composer install
 ### Buka aplikasi di port 8000    
 
 login dengan email admin@gmail.com password rahasia
+
+### kalau admin nya masih salah
+
+login dengan email budi@gmail.com password 12345678
